@@ -12,3 +12,12 @@
 # GCD
 `GCD(a1, a2, a3, … , an)=GCD(a1, a1+a2, a1+a2+a3, …, a1+a2+a3+…+an)`
 
+# Sweep Line
+
+[problem](https://leetcode.com/problems/count-days-without-meetings/description/)
+
+maintaining the current running number of meetings
+# Bitwise AND and OR of all subarrays
+
+[problem](https://leetcode.com/problems/find-subarray-with-bitwise-and-closest-to-k/description/)
+
