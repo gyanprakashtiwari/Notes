@@ -20,6 +20,9 @@
 - [[N Queen - 2 Recursion]]
 - [[Sudoko Solver]]
 - After Learning graph basics
+- [[Palindrome Partitioning]]
+- [[Rat in a Maze 1]]
+- 
  
  
  
